@@ -21,3 +21,7 @@ beeFriendly is a no-lag, bee docile plugin that disables stings and the horrible
 
 # Installation
  - Just drag and drop in your /plugins and optionally disable/enable with config.yml 
+ 
+ # Download
+ Click Download
+ https://github.com/arch-linux/beeFriendly/blob/main/builds/beeFriendly.jar 
