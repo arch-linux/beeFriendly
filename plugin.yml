@@ -1,0 +1,5 @@
+main: beeFriendly.Main
+name: BeeFriendly
+version: 1.0.0
+description: Makes bees friendly. In all scenarios.
+author: ArchLinuxUSA
