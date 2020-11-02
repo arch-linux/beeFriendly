@@ -2,12 +2,16 @@ package beeFriendly;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
+import beeFriendly.beeStats.MetricsLite;
 import beeFriendly.listener.bee;
 
 public class Main extends JavaPlugin {
     
-    @Override
+    @SuppressWarnings("unused")
+	@Override
     public void onEnable() {
+    	int pluginId = 9291; // <-- Replace with the id of your plugin!
+        MetricsLite metrics = new MetricsLite(this, pluginId);
     	if(getConfig().getString("isEnabled").equalsIgnoreCase("true")) {
     	System.out.println("\u001b[33m" + "BeeFriendly is enabled in your config!" + "\u001b[0m");
     	getServer().getPluginManager().registerEvents(new bee(), this);
