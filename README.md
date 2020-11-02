@@ -1,4 +1,5 @@
-# beeFriendly 1.0
+# beeFriendly 1.1
+MC Version 1.16.4 (works on all versions where bees were added)
 by Christopher Allen
 
 ![minecraft bee](https://static.wikia.nocookie.net/minecraft/images/8/86/BeeTypes_%28Animated%29.gif)
@@ -24,4 +25,7 @@ beeFriendly is a no-lag, bee docile plugin that disables stings and the horrible
  
  # Download
  Click Download
- https://github.com/arch-linux/beeFriendly/blob/main/builds/beeFriendly.jar 
+
+# Changelog
+ - 11/2/2020 - added bStatslite and updated base to 1.16.4
+ - 11/1/2020 - initial submit
