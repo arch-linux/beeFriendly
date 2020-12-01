@@ -5,6 +5,7 @@ by Christopher Allen
 
 
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-holyshit.svg)](spigotmc.org)
 
 ![minecraft bee](https://static.wikia.nocookie.net/minecraft/images/8/86/BeeTypes_%28Animated%29.gif)
 
