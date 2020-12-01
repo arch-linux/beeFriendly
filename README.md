@@ -5,12 +5,12 @@ by Christopher Allen
 
 
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://christopherallen.dev)
 
 ![minecraft bee](https://static.wikia.nocookie.net/minecraft/images/8/86/BeeTypes_%28Animated%29.gif)
 
