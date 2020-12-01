@@ -11,6 +11,7 @@ by Christopher Allen
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://christopherallen.dev)
 [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://christopherallen.dev)
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://christopherallen.dev)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 
 ![minecraft bee](https://static.wikia.nocookie.net/minecraft/images/8/86/BeeTypes_%28Animated%29.gif)
 
