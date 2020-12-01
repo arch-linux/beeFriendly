@@ -1,6 +1,7 @@
 # beeFriendly 1.1
 MC Version 1.16.4 (works on all versions where bees were added)
 by Christopher Allen
+[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
 
 ![minecraft bee](https://static.wikia.nocookie.net/minecraft/images/8/86/BeeTypes_%28Animated%29.gif)
 
